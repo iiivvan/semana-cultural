@@ -1,1 +1,72 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>Semana Cultural del IES López de Mendoza - Burgos</title>
+   
+</head>
+<body>
 
+<header>
+    <h1>Semana Cultural del IES López de Mendoza</h1>
+    <p>Celebramos la cultura, la creatividad y el talento de nuestra comunidad educativa</p>
+</header>
+
+<nav>
+    <a href="#inicio">Inicio</a>
+    <a href="#programa">Programa</a>
+    <a href="#actividades">Actividades</a>
+    <a href="#contacto">Contacto</a>
+</nav>
+
+<div class="container">
+    <section id="inicio">
+        <h2 class="section-title">Bienvenidos a la Semana Cultural</h2>
+        <p class="section-content">La Semana Cultural del IES López de Mendoza es un evento anual que tiene como objetivo promover la creatividad, el arte y la cultura entre los estudiantes, profesores y la comunidad educativa en general. Durante esta semana, llevamos a cabo actividades y eventos de todo tipo que reflejan las tradiciones, el talento y la diversidad cultural de nuestra institución.</p>
+    </section>
+
+    <section id="programa">
+        <h2 class="section-title">Programa de la Semana Cultural</h2>
+        <p class="section-content">Aquí te dejamos el programa con las actividades más destacadas de este año. ¡No te lo puedes perder!</p>
+        <ul class="event-list">
+            <li><strong>Lunes:</strong> Inauguración de la exposición de arte estudiantil - 10:00 AM</li>
+            <li><strong>Martes:</strong> Taller de danzas tradicionales - 12:00 PM</li>
+            <li><strong>Miércoles:</strong> Concierto de la banda del IES López de Mendoza - 7:00 PM</li>
+            <li><strong>Jueves:</strong> Cineforum: "El cine como reflejo de nuestra historia" - 6:00 PM</li>
+            <li><strong>Viernes:</strong> Fiesta de cierre con muestra de talentos y cena temática - 8:00 PM</li>
+        </ul>
+    </section>
+
+    <section id="actividades">
+        <h2 class="section-title">Actividades y Talleres</h2>
+        <p class="section-content">Durante la Semana Cultural, se ofrecen una variedad de talleres y actividades para todos los gustos. Algunas de las actividades incluyen:</p>
+        <ul class="event-list">
+            <li>Taller de pintura y escultura</li>
+            <li>Taller de cocina internacional</li>
+            <li>Concurso de fotografía "Mi Burgos"</li>
+            <li>Presentaciones teatrales por parte de los alumnos</li>
+            <li>Ruta cultural por el casco histórico de Burgos</li>
+        </ul>
+    </section>
+
+    <section id="contacto">
+        <h2 class="section-title">Contacto</h2>
+        <p class="section-content">Si tienes alguna pregunta o deseas más información sobre la Semana Cultural, no dudes en ponerte en contacto con nosotros:</p>
+        <div class="contact-info">
+            <ul>
+                <li><strong>Email:</strong> info@ieslopezdemendoza.es</li>
+                <li><strong>Teléfono:</strong> +34 947 123 456</li>
+                <li><strong>Dirección:</strong> C/ San Pedro y San Felices, 09001 Burgos, España</li>
+            </ul>
+        </div>
+    </section>
+</div>
+
+<footer class="footer">
+    <p>&copy; 2024 IES López de Mendoza. Todos los derechos reservados.</p>
+</footer>
+
+</body>
+</html>
