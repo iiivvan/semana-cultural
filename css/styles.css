@@ -7,7 +7,7 @@
         }
 
         header {
-            background-image: url('ruta-de-tu-imagen.jpg'); /* Ruta de la imagen */
+            background-image: url(https://www.asturnatura.com/Imagenes/lugares/3289/1.jpg); /* Ruta de la imagen */
             color: white;
             text-align: center;
             padding: 20px 0;
